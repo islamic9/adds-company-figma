@@ -1,0 +1,49 @@
+
+.employees-inner{
+    background: #2984EE;
+}
+
+.employees-wrapper{
+    padding-top: 53px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 65px;
+}
+
+.person-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.employees-text{
+    max-width: 740px;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    letter-spacing: 0.15em;
+    color: #000000;
+}
+
+.employees-item-text{
+    padding-bottom: 108px;
+    max-width: 372px;
+    padding-top: 23px; 
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 46px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+}
+
+.bottom{
+    display: flex;
+    flex-direction: row-reverse;
+}

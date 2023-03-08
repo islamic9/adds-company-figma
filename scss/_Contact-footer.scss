@@ -1,0 +1,122 @@
+
+.for-background{
+    background-image: url("../images/footer-back.png");
+}
+
+.footer-inner{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    padding-top: 12px;
+    gap: 254px;
+}
+
+.two-blog-wrapper{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 58px;
+}
+
+.footer-logo-wrapper{
+    display: flex;
+    align-self: center;
+    gap: 12px;
+}
+
+.footer-middle{
+    margin-top: 92px;
+}
+
+.footer-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+    color: #272C5B;
+}
+
+.left-info{
+    width: 206px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 154.5%;
+    color: #14191F;
+}
+
+.Contact-us{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 130%;
+    color: #14191F;
+}
+
+.phone-wrapper, .mail-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.phone-number, .mail{    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 154.5%;
+    color: #14191F;
+}
+
+textarea{
+    max-width: 310px;
+}
+
+.btn-wrapper{
+    margin-top: 14px;
+}
+
+.btn-white{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 154.5%;
+    color: #2984EE;
+    padding: 6px 16px;
+    background: #FFFFFF;
+    border: 1px solid #2984EE;
+    border-radius: 5px;
+}
+
+.btn-blue{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 154.5%;
+    color: #FFFFFF;
+    padding: 6px 16px;
+    background: #2984EE;
+    border:  none;
+    border-radius: 5px;
+}
+
+.lokatsiya{
+    margin: 76px 0 49px 0;
+    padding-top: 144px;
+    text-align: center;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 154.5%;
+    color: #000000;
+    width: 475px;
+    height: 200px;
+    background: white;
+}

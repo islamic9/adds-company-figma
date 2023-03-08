@@ -1,0 +1,45 @@
+.hero-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-logo-wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.hero-logo{
+    padding: 8px 0 12px 24px;
+}
+
+.hero-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 51px;
+    text-align: center;
+    color: #272C5B;
+}
+
+.hero-list{
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.hero-item{
+    border-right: 2px solid #2C6FB6;
+    padding-right: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2C6FB6;
+}
+
+.flag{
+    padding: 10px 10px 11px 0;
+}

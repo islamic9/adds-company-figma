@@ -1,0 +1,35 @@
+.presonal-info-wrapper{
+    padding-top: 131px;
+    background: #79ADE9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 191px;
+    flex-wrap: wrap;
+}
+
+.personla-info{
+}
+
+.info-title{
+    max-width: 255px;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    letter-spacing: 0.15em;
+    color: #FFFFFF;
+}
+
+.info-text{
+    max-width: 288px;
+    font-family: "Inika";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.15em;
+    color: #000000;
+}
